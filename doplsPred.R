@@ -55,6 +55,3 @@ doplsPred <- function(out.dopls, newData){
       }
     return(rispor)    
 }
-
-
-
